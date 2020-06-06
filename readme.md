@@ -1,16 +1,6 @@
 <p align="center">
     <img src="http://highcoder.com/img/logo.png" width="150"><br>
 </p>
-<p align="center">Open source e-commerce for business use laravel framework</p>
-<p align="center">
-<a href="https://demo.s-cart.org">Demo</a> | <a href="https://demo.s-cart.org/system_admin">Demo admin</a> | <a href="https://s-cart.org">Home page</a> | <a href="https://s-cart.org/installation.html">Installation</a> | <a href="https://s-cart.org/video-guide.html">Video Guide</a>
-</p>
-<p align="center">
-<a href="https://packagist.org/packages/lanhktc/s-cart"><img src="https://poser.pugx.org/lanhktc/s-cart/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/lanhktc/s-cart"><img src="https://poser.pugx.org/lanhktc/s-cart/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/lanhktc/s-cart"><img src="https://poser.pugx.org/lanhktc/s-cart/license.svg" alt="License"></a>
-</p>
-
 ## About multi vendor 
 Free Open source E-commerce use Laravel framework for Business using s-cart platform 
 
