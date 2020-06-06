@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://s-cart.org/logo.png" width="150"><br>
+    <img src="http://highcoder.com/img/logo.png" width="150"><br>
 </p>
 <p align="center">Open source e-commerce for business use laravel framework</p>
 <p align="center">
