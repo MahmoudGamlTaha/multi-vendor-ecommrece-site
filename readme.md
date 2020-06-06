@@ -10,28 +10,16 @@
 <a href="https://packagist.org/packages/lanhktc/s-cart"><img src="https://poser.pugx.org/lanhktc/s-cart/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/lanhktc/s-cart"><img src="https://poser.pugx.org/lanhktc/s-cart/license.svg" alt="License"></a>
 </p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-1.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/product-detail.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-2.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-3.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-4.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-5.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-6.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-8.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-9.jpg"></p>
-<p align="center"><img src="https://s-cart.org/images/screen/v22/s-cart-10.jpg"></p>
 
-
-
-## About S-cart
-Free Open source E-commerce use Laravel framework for Business
+## About multi vendor 
+Free Open source E-commerce use Laravel framework for Business using s-cart platform 
 
 ## Technology
 - Core <a href="https://laravel.com">Laravel Framework</a>
 - Back-end <a href="http://laravel-admin.org">Laravel Admin</a>
 - In addition, s-cart also integrates other free open source libraries.
 
-## List Functions of S-cart
+## List Functions of  multi vendor
 
 ======= SHOPPING =======
 
@@ -157,7 +145,6 @@ Step6:
 - User/pass <code><b>admin</b>/<b>admin</b></code>
 
 ## Demo:
-
-- Font-end : http://demo.s-cart.org
-- Back-end: http://demo.s-cart.org/system_admin   <code>User/pass: test/123456</code>
+- fornt-end : 
+- Back-end: http://souqvis.com/system_admin   <code>User/company/pass: admin/master/admin</code>
 
