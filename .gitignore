@@ -1,0 +1,12 @@
+/node_modules
+/storage/*.key
+/*.zip
+/vendor
+/.idea
+/.vagrant
+/database/migrations
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
