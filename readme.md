@@ -7,8 +7,6 @@ Free Open source E-commerce use Laravel framework for Business using s-cart plat
 ## Technology
 - Core <a href="https://laravel.com">Laravel Framework</a>
 - Back-end <a href="http://laravel-admin.org">Laravel Admin</a>
-- In addition, s-cart also integrates other free open source libraries.
-
 ## List Functions of  multi vendor
 
 ======= SHOPPING =======
@@ -86,35 +84,9 @@ Version 1.6 ~ 2.1.x:
 
 
 ## Installation & configuration:
-
-<b>How to map your domain to s-cart? <a href="https://s-cart.org/installation.html">CLICK HERE</a></b>
-
-Step1: Install last version S-cart
-```
-composer create-project lanhktc/s-cart
-```
-Step2:
-- Chmod -R 777 public/documents/website
-- Chmod -R 777 storage
-- Chmod -R 777 vendor
-- Folder thumbnail is  <b>public/documents/website/thumb</b>.
-
-Step3:
-```
-- Create a new database. Example database name is s-cart
-```
-
-Step4:
-
-=> From version 2.1.1, you can install s-cart by link: <code><b>your-domain.com/install.php</b></code>
-
-```
-Then, access your-domain.com/install.php to install S-cart.
-If installing with link "install.php" unsuccessful, you can install it manually below.
-```
 OR manual installation:
 ```
-- Import file sql database/s-cart.sql to database.
+- Import file sql ./s-cart-multishop.sql to database.
 - Rename file .env.example to .env if file .env not exist.
 - Genarate API key if APP_KEY is null. Use command "php artisan key:generate"
 - Config value of file .env:
@@ -125,16 +97,10 @@ OR manual installation:
     DB_USERNAME=root
     DB_PASSWORD=
 ```
-
-Step5:
-
-NOTE: Please <b>remove</b> or <b>rename</b> file public/install.php so others cannot access it.
-
-Step6:
 - Access to url admin: your-domain/system_admin.
 - User/pass <code><b>admin</b>/<b>admin</b></code>
 
 ## Demo:
-- fornt-end : 
+- fornt-end : uploded here but not avaliable demo till now
 - Back-end: http://souqvis.com/system_admin   <code>User/company/pass: admin/master/admin</code>
 
