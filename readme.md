@@ -93,7 +93,7 @@ OR manual installation:
     APP_URL=http://localhost
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=s-cart
+    DB_DATABASE=s-cart-multishop
     DB_USERNAME=root
     DB_PASSWORD=
 ```
