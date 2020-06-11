@@ -102,5 +102,5 @@ OR manual installation:
 
 ## Demo:
 - fornt-end : uploded here but not avaliable demo till now
-- Back-end: http://souqvis.com/system_admin   <code>User/company/pass: admin/master/admin</code>
+- Back-end: http://souqvis.com/system_admin   <code>User/company/pass: superadmin/master/admin</code>
 
