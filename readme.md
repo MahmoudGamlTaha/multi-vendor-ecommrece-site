@@ -97,6 +97,7 @@ OR manual installation:
     DB_USERNAME=root
     DB_PASSWORD=
 ```
+extract vendor.zip file in his same location
 - Access to url admin: your-domain/system_admin.
 - User/pass <code><b>admin</b>/<b>admin</b></code>
 
