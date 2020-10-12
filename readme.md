@@ -103,5 +103,5 @@ extract vendor.zip file in his same location
 
 ## Demo:
 - fornt-end : uploded here but not avaliable demo till now
-- Back-end: http://souqvis.com/system_admin   <code>User/company/pass: superadmin/master/admin</code>
+- Back-end: http://dokkan.dokkancairo.com/  <code>User/company/pass: superadmin/master/admin</code>
 
